@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii! Eu sou o João D'Amorim.
  <div>
   <a href="https://github.com/joao-damorim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-damorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,6 +22,6 @@
   <a href = "mailto:joao.damorim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-damorim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation]((https://github.com/joao-damorim/joao-damorim/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joao-damorim/joao-damorim/blob/output/github-contribution-grid-snake.svg)
  
 </div>
